@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Sathin Smakkamai\2020_20310897\Worksheet4\calc_cmake\adder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sathin Smakkamai\2020_20310897\Worksheet4\calc_cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E655BAB4-3BD9-3C1E-BF03-2650AF957E3D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
