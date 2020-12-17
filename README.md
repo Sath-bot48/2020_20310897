@@ -1,1 +1,2 @@
-This repocitory has contain all the Worksheet execercise from the worksheet 2 to 5.
+Sathin Smakkamai 20310897
+This repository has contain all the exercises from the worksheet 2 to worksheet 5.
