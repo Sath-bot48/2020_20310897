@@ -1,1 +1,6 @@
-I have learnt not thing
+git clone  : copy repocitory from github to own hard disk
+git log    : show all previous commits
+git status : show current status (things that change and still waiting for commit)
+git add    : add change into git
+git commit : commit the change to the git
+git init   : create a folder in git
