@@ -1,4 +1,0 @@
-C:/Users/Sathin Smakkamai/2020_20310897/Worksheet5/hello_qt_cm/build/CMakeFiles/hello_qt.dir
-C:/Users/Sathin Smakkamai/2020_20310897/Worksheet5/hello_qt_cm/build/CMakeFiles/edit_cache.dir
-C:/Users/Sathin Smakkamai/2020_20310897/Worksheet5/hello_qt_cm/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Sathin Smakkamai/2020_20310897/Worksheet5/hello_qt_cm/build/CMakeFiles/hello_qt_autogen.dir
