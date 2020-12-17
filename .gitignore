@@ -1,7 +1,7 @@
 # Contents of .gitignore
 *.com
 *.class
-*.dll*
+*.dll
 *.exe
 *.o
 *.so
