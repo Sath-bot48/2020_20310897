@@ -1,3 +1,0 @@
-C:/Users/Sathin Smakkamai/2020_20310897/Worksheet4/hello_cmake/buildII/CMakeFiles/hello.dir
-C:/Users/Sathin Smakkamai/2020_20310897/Worksheet4/hello_cmake/buildII/CMakeFiles/ALL_BUILD.dir
-C:/Users/Sathin Smakkamai/2020_20310897/Worksheet4/hello_cmake/buildII/CMakeFiles/ZERO_CHECK.dir
