@@ -1,0 +1,14 @@
+# .travis.yml
+sudo: false
+
+branches:
+  except:
+    - gh-pages
+     
+     
+# Build your code
+script:
+  - cd worksheet7
+  - cmake .
+  - make
+  - make test
