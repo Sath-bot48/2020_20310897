@@ -8,6 +8,6 @@ branches:
      
 # Build your code
 script:
-  - cmake .
+  - cmake Worksheet7/.
   - make
   - make test
