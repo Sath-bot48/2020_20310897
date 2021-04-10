@@ -8,4 +8,5 @@
 *.obj
 *.a
 *.vs
-build/
+*build/
+*html/
