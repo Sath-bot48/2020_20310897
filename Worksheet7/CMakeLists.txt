@@ -1,7 +1,10 @@
 # CMakeLists.txt (fragment of)
+
 cmake_minimum_required(VERSION 2.8.0)
+
 project(MathsLib)
 include(CTest)
+
 add_library(maths maths.cpp)
 
 # ...
